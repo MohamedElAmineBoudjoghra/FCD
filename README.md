@@ -1,4 +1,4 @@
-#Robust Model poisoning attack to fake clients defense
+# Robust Model poisoning attack to fake clients defense
 
 The code was built on top of <a href="https://github.com/zaixizhang/FLDetector/tree/main">FLDetector</a>.
 
